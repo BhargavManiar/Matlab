@@ -6,6 +6,7 @@ limit((x - 3)/(x-1),1)
 
 limit(x^2 + 5, 3)
 
+% We can also use the properties of limnits and verify. 
 f = (3*x + 5)/(x-3);
 g = x^2 + 1; 
 l1 = limit(f, 4)
